@@ -10,3 +10,6 @@ Technologies & Languages Used:
 2) Core Java.
 3) Java Packages like awt, swing, etc.
 4) JDBC API.
+
+Following is a Screenshot of MySQL Workbench:
+<img width="887" alt="MySQL_Workbench_Screenshot" src="https://user-images.githubusercontent.com/108985323/230774270-d0c7ca92-215e-4fcb-b35e-90535e704ae6.png">
