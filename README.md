@@ -15,6 +15,17 @@ ATM Simulator System (Bank Management System) is a Desktop Application created u
 
 <img width="887" alt="MySQL_Workbench_Screenshot" src="https://user-images.githubusercontent.com/108985323/230774270-d0c7ca92-215e-4fcb-b35e-90535e704ae6.png">
 
+
+<br><br>
+
+* SignUpScreen ScreenShot:
+
+<img width="634" alt="SignUpOne" src="https://user-images.githubusercontent.com/108985323/230782405-0db4fd07-15cf-4536-9ba2-81fe1a81c10d.png">
+
+<img width="619" alt="SignUpTwo" src="https://user-images.githubusercontent.com/108985323/230782668-d3c99e3a-cadf-459c-bd7c-fcef5e7296ab.png">
+
+<img width="616" alt="SignUpThree" src="https://user-images.githubusercontent.com/108985323/230782676-fbbc2f6d-d123-430d-98d9-d336b214a9ac.png">
+
 <br><br>
 
 * LoginScreen ScreenShot:
