@@ -32,3 +32,22 @@ ATM Simulator System (Bank Management System) is a Desktop Application created u
 * BalanceEnquiry ScreenShot:
 
 <img width="673" alt="BalanceEnquiry" src="https://user-images.githubusercontent.com/108985323/230774727-2349605b-6268-4811-8482-2798e732f135.png">
+
+
+
+* Deposit ScreenShot:
+
+<img width="671" alt="Deposit" src="https://user-images.githubusercontent.com/108985323/230775160-d9d9ff98-2848-464a-8180-37ebe4988746.png">
+
+
+* FastCash ScreenShot:
+
+<img width="671" alt="FastCash" src="https://user-images.githubusercontent.com/108985323/230775166-c492658e-6ef1-46cf-88ad-8633313c94e7.png">
+
+<img width="669" alt="FastCash2" src="https://user-images.githubusercontent.com/108985323/230775176-55ae8690-d42e-4ec1-b05c-dd897f60a2aa.png">
+
+
+* PinChange ScreenShot:
+
+<img width="671" alt="PinChange" src="https://user-images.githubusercontent.com/108985323/230775192-ff3bb1a5-ad66-424c-87c5-ce8910ffa679.png">
+
