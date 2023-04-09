@@ -18,7 +18,7 @@ ATM Simulator System (Bank Management System) is a Desktop Application created u
 
 <br><br>
 
-* SignUpScreen ScreenShot:
+* SignUpScreens ScreenShot:
 
 <img width="634" alt="SignUpOne" src="https://user-images.githubusercontent.com/108985323/230782405-0db4fd07-15cf-4536-9ba2-81fe1a81c10d.png">
 
